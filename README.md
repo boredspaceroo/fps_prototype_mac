@@ -1,1 +1,1 @@
-# fps_prototype_mac
+# FPS Prototype Mac
